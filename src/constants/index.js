@@ -40,7 +40,7 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Develop your business sites from us and avail one year hosting free",
   },
   {
     id: "feature-2",
@@ -54,7 +54,7 @@ export const features = [
     icon: send,
     title: "Balance Transfer",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "We used most protected method of payemnt transfer on websites",
   },
 ];
 
@@ -98,7 +98,7 @@ export const stats = [
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "Revenue",
     value: "$230M+",
   },
 ];

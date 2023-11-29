@@ -7,12 +7,10 @@ const CardDeal = () => {
   return (
     <section className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>Find a better card deal <br className='sm:block hidden'/>in few easy steps.</h2>
+        <h2 className={styles.heading2}>Secure Transactions, Insightful Analytics,  <br className='sm:block hidden'/>and Diverse Payment Options</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Arcu tortor,
-          purus in mattis at sed integer faucibus.
-          Aliquet quis aliquet eget mauris tortor.ç 
-          Aliquet ultrices ac, ametau.
+        Experience secure payment transfers for transaction safety on our website. Gain insights with our analytics dashboard tailored for your business needs. Enjoy enhanced convenience with integrated multiple payment bank options.
+          
         </p>
         <Button styles='mt-10'/>
       </div>
