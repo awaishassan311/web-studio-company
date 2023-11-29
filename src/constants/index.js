@@ -62,7 +62,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "Fantastic website development! Stunning design, user-friendly, and secure payment integration that boosted our sales. Exceptional customer service. Highly recommended for e-commerce.",
     name: "Herman Jensen",
     title: "Founder & Leader",
     img: people01,
@@ -70,7 +70,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Exceeded expectations for my business website. The analytics dashboard is a game changer for customer engagement. Seamless, secure user experience. Outstanding service!",
     name: "Steve Mark",
     title: "Founder & Leader",
     img: people02,
@@ -78,7 +78,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Incredible online portfolio development. Sleek design, hassle-free payment options. Proactive support and professional results. Highly grateful and satisfied!",
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
